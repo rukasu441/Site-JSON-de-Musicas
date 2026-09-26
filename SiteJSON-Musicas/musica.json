@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "Musica": "Vem cá",
+        "Genero": "Hip Hop",
+        "Cantor": "Pelé Milflows",
+        "Ano": 2019
+    },
+        {
+        "id": 2,
+        "Musica": "Flashing Lights",
+        "Genero": "Pop",
+        "Cantor": "Kanye West",
+        "Ano": 2008
+    },
+
+    {
+        "id": 3,
+        "Musica": "Refletions",
+        "Genero": "Indie Rock",
+        "Cantor": "The Neighbourhood",
+        "Ano": 2017
+    },
+    
+    {
+        "id": 4,
+        "Musica": "Chest Pain",
+        "Genero": "Rock",
+        "Cantor": "Malcom Todd",
+        "Ano": 2015
+    },
+
+    {
+        "id": 5,
+        "Musica": "O Show Tem Que Continuar",
+        "Genero": "Pagode",
+        "Cantor": "Grupo Revelação",
+        "Ano": 2020
+    },
+
+    {
+        "id": 6,
+        "Musica": "DO I Wanna Know?",
+        "Genero": "Indie Rock",
+        "Cantor": "Artic Monkeys",
+        "Ano": 2016
+    }
+]
